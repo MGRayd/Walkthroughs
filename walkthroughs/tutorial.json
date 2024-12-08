@@ -4,6 +4,6 @@
     { "type": "text", "data": "Welcome to the game! This tutorial will guide you through the basics." },
     { "type": "text", "data": "Step 1: Press 'W', 'A', 'S', 'D' to move your character." },
     { "type": "text", "data": "Step 2: Press 'E' to interact with objects and NPCs." },
-    { "type": "text", "data": "Step 3: Press 'I' to open your inventory." }
+    { "type": "text", "data": "Step 3: Press 'I' to open your inventory. TESTING UPDATES ON JSON" }
   ]
 }
